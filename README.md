@@ -7,6 +7,6 @@
 
 {Restaurant Analysis}(https://github.com/vongodagreat/Restaurant-Analysis.git)
 
-{Shopify App Analysis}(
+{Shopify App Analysis}(https://github.com/vongodagreat/Shopify.git)
 
 
