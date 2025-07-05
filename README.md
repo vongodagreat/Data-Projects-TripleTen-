@@ -4,4 +4,6 @@
  ## Table of Contents 
 
 {Business Analytics Project}(https://github.com/vongodagreat/Business-Analytics-Project.git)
+{Restaurant Analysis}(https://github.com/vongodagreat/Restaurant-Analysis.git)
+
 
